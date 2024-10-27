@@ -1,3 +1,5 @@
+[![NodeJS with Vite](https://github.com/antonovaekaterina/hexlet-ci-app/actions/workflows/build.yml/badge.svg)](https://github.com/antonovaekaterina/hexlet-ci-app/actions/workflows/build.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
